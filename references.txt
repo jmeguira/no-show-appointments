@@ -1,0 +1,7 @@
+https://chrisalbon.com/python/data_wrangling/pandas_dropping_column_and_rows/
+
+https://stackoverflow.com/a/30566899
+
+https://stackoverflow.com/a/24913075
+
+https://stackoverflow.com/a/21487560
